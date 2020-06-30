@@ -1,0 +1,62 @@
+[
+  {
+    "idCategorie": 1,
+    "id": 1,
+    "title": "Cinéma quizz 1",
+    "titleSlug": "cinema-quizz-1"
+  },
+  {
+    "idCategorie": 1,
+    "id": 2,
+    "title": "Cinéma quizz 2",
+    "titleSlug": "cinema-quizz-2"
+  },
+  {
+    "idCategorie": 1,
+    "id": 3,
+    "title": "Cinéma quizz 3",
+    "titleSlug": "cinema-quizz-3"
+  },
+  {
+    "idCategorie": 1,
+    "id": 4,
+    "title": "Cinéma quizz 4",
+    "titleSlug": "cinema-quizz-4"
+  },
+  {
+    "idCategorie": 1,
+    "id": 5,
+    "title": "Cinéma quizz 5",
+    "titleSlug": "cinema-quizz-5"
+  },
+  {
+    "idCategorie": 2,
+    "id": 1,
+    "title": "Géographie quizz 1",
+    "titleSlug": "geographie-quizz-1"
+  },
+  {
+    "idCategorie": 2,
+    "id": 2,
+    "title": "Géographie quizz 2",
+    "titleSlug": "geographie-quizz-2"
+  },
+  {
+    "idCategorie": 2,
+    "id": 3,
+    "title": "Géographie quizz 3",
+    "titleSlug": "geographie-quizz-3"
+  },
+  {
+    "idCategorie": 2,
+    "id": 4,
+    "title": "Géographie quizz 4",
+    "titleSlug": "geographie-quizz-4"
+  },
+  {
+    "idCategorie": 2,
+    "id": 5,
+    "title": "Géographie quizz 5",
+    "titleSlug": "geographie-quizz-5"
+  }
+]
